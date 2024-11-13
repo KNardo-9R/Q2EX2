@@ -1,0 +1,22 @@
+*{
+
+}
+
+body{
+	background-image: url("blue bg.jpg");
+	background-position: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 100px;
+} 
+
+/*style for container*/
+.container{
+	background-color: rgb(192, 192, 192, 0.9);background-blend-mode: overlay;
+	color: black;
+}
+
+/*style for image*/
+img{
+	width: 100%;
+}
